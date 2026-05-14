@@ -1,16 +1,15 @@
-## Hi there 👋
+## 1-3-5 Career Roadmap
 
-<!--
-**minsu616/minsu616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 5년 후 (장기 비전)
+나는 5년 후, 맡은 일을 책임감 있게 끝까지 해내는 백엔드·데이터 개발자로서, 계속 배우고 성장하며 내가 맡은 서비스와 시스템을 안정적으로 운영하는 사람이 되고자 한다.
 
-Here are some ideas to get you started:
+### 3년 후 (중기 목표 – OKR)
+- **O(목표):** 3년 후, 편입에 성공해 전공 수업과 프로젝트를 통해 실무에 가까운 경험을 쌓으며, 프로그래밍 관련 기사 자격증을 취득할 수 있는 역량을 갖춘다.
+- **KR1:** 2년 내 인서울 4년제 컴퓨터 관련 학과로 편입에 합격한다.
+- **KR2:** 편입 후 1년 동안 전공 과목 평균 학점 3.5 이상을 유지한다.
+- **KR3:** 편입 후 대학에 있는 동안 프로그래밍 기사 자격증 필기 합격을 달성할 수 있을 정도로 기출 문제를 3회독 이상 마친다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1년 후 (단기 목표 – SMART)
+- **목표 1:** 2027년 12월까지, 희망 편입 대학 3곳 이상의 전형 요강과 요구 과목을 정리한 계획서를 만든다.
+- **목표 2:** 2027년 12월까지, 편입 수학/전공 과목 문제집을 주 5일, 하루 2시간 이상 공부하여, 각 과목별로 기출 문제 2회독 이상을 완료한다.
+- **목표 3:** 2027년 12월까지, 프로그래밍 능력 유지를 위해 주 3일 이상 알고리즘 또는 코딩 연습을 진행하고, GitHub에 커밋 150개 이상을 기록한다.
